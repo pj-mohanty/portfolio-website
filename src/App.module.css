@@ -1,0 +1,23 @@
+.App {
+  background-color: var(--color-bg); /* Dark Background */
+  color: var(--color-text); /* White Text */
+  width: 100%;
+  height: 100%;
+  font-family: var(--font-roboto);
+  overflow: hidden;
+}
+
+h1, h2, h3, p {
+  font-family: var(--font-roboto);
+  color: var(--color-text);
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: var(--color-accent); /* Gold Accent on Hover */
+}

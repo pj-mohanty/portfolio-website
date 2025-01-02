@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Humans of Technology",
+    "imageSrc": "projects/humans-of-technology.jpg",
+    "description": "An interactive history museum showcasing notable figures in computer science with AI-powered chatbots.",
+    "skills": ["React", "Redux", "Firebase", "OpenAI API", "Google Cloud Storage", "JSON", "Node.js", "TailwindCSS", "Axios", "Postman"],
+    "demo": "https://humans-of-technology-demo.com",
+    "source": "https://github.com/username/humans-of-technology"
+  },
+  {
+    "title": "Heroes vs Villains",
+    "imageSrc": "projects/heroes-vs-villains.jpg",
+    "description": "An immersive storytelling platform allowing users to engage with AI-generated hero and villain characters.",
+    "skills": ["Java", "Vaadin", "OpenAI API", "AI-Generated Images", "Text-to-Speech", "React", "Redux", "Node.js"],
+    "demo": "https://heroes-vs-villains-demo.com",
+    "source": "https://github.com/username/heroes-vs-villains"
+  },
+  {
+    "title": "Bookstore App",
+    "imageSrc": "projects/bookstore-app.jpg",
+    "description": "A full-stack e-commerce application for browsing, purchasing, and managing books.",
+    "skills": ["React", "Redux", "TailwindCSS", "Next.js", "Express", "MongoDB", "Firebase", "JWT", "Chart.js", "Vite", "Axios"],
+    "source": "https://github.com/username/bookstore-app"
+  },
+  {
+    "title": "Full Stack Spotify Clone",
+    "imageSrc": "projects/spotify-clone.jpg",
+    "description": "A full-stack music streaming app mimicking Spotify’s features (song uploads, playlists, advanced audio player).",
+    "skills": ["Next.js 13.4", "React", "Tailwind CSS", "Supabase", "PostgreSQL", "Stripe", "React Hook Form", "React Toast"],
+    "source": "https://github.com/username/spotify-clone"
+  },
+  {
+    "title": "Social Media Application",
+    "imageSrc": "projects/social-media-app.jpg",
+    "description": "A full-stack social media platform with user authentication and dynamic UI.",
+    "skills": ["Next.js", "React", "MongoDB", "Mongoose", "Tailwind CSS", "Material-UI", "Clerk", "React Hook Form", "Emotion"],
+    "source": "https://github.com/username/social-media-app"
+  }
+]

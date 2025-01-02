@@ -1,0 +1,14 @@
+:root {
+  /* Colours */
+  --color-text: #fff;
+  --color-primary: #576cbc; /* Royal Blue */
+  --color-secondary: #19376d; /* Darker Blue */
+  --color-dark: #0b2447; /* Dark Blue */
+  --color-bg: #04152d; /* Dark Background */
+  --color-accent: #f0a500; /* Gold Accent for highlights */
+  --color-hover: #2e4a76; /* Darker shade for hover effects */
+
+  /* Fonts */
+  --font-roboto: "Roboto", sans-serif;
+  --font-serif: "Georgia", serif;
+}

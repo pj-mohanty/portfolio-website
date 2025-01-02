@@ -1,0 +1,47 @@
+[
+  {
+    "role": "Software Engineering Intern",
+    "organisation": "United Solutions Private Limited",
+    "startDate": "Feb 2022",
+    "endDate": "May 2022",
+    "location": "Punjab, India",
+    "experiences": [
+      "Implemented a Seq2Seq model using a multi-headed attention-based transformer to generate new company-based column names.",
+      "Achieved a perplexity score of 85 by using semantic & contextual information from data to derive stronger latent representations."
+    ]
+  },
+  {
+    "role": "Software Development Intern",
+    "organisation": "I.K. Electronics",
+    "startDate": "Oct 2020",
+    "endDate": "Jan 2021",
+    "location": "Gurgaon, India",
+    "experiences": [
+      "Developed an Integrated Report Generation System using the MERN stack to facilitate team productivity.",
+      "Used NodeJS, JavaScript and MongoDB to fetch data from different departments to generate an integrated report for the entire team.",
+      "Created a frontend for aesthetic display of reports using React, HTML and CSS and deployed the application to AWS."
+    ]
+  },
+  {
+    "role": "Consultant Dental Surgeon",
+    "organisation": "Aastha Rehabilitation Centre",
+    "startDate": "Feb 2022",
+    "endDate": "July 2024",
+    "location": "Jharkhand, India",
+    "experiences": [
+      "Organized dental and healthcare camps and provided dental treatment for children suffering from cerebral palsy.",
+      "Educated patients and their parents on the importance of dental hygiene and techniques of proper dental and medical care."
+    ]
+  },
+  {
+    "role": "Dental Intern",
+    "organisation": "Hazaribag College of Dental Sciences and Hospital",
+    "startDate": "Jan 2021",
+    "endDate": "Jan 2022",
+    "location": "Jharkhand, India",
+    "experiences": [
+      "Performed various procedures like extractions, alveoloplasty, RCTs, Biopsy, orthodontic procedures and periodontic surgeries.",
+      "Also worked extensively on various prosthodontic procedures, maxillofacial surgeries, endodontic surgeries and implant surgeries."
+    ]
+  }
+]
