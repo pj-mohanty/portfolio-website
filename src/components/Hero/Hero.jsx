@@ -5,11 +5,11 @@ import { getImageUrl } from "../../utils";
 
 export const Hero = () => {
   return (
-    <section className={styles.container}>
+    <section id="home" className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>Hello! I'm Padmaja</h1>
         <p className={styles.description}>
-        "I am a diligent and driven individual with a deep passion for software engineering and artificial intelligence. I thrive on solving complex problems and am committed to continuously expanding my knowledge to make impactful contributions in these dynamic fields."
+          I am a multi-faceted and diligent indivisual with deep interest in the fiels of software engineering, deep learniing and life sciences.
         </p>
         <a href="#contact" className={styles.contactBtn}>
           Contact Me

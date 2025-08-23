@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Nanoworld - Where Small is Big",
+    "type": "Research Poster",
+    "conference": "International Dental Conference, BBSR",
+    "year": "2019",
+    "description": "The research study covers a comprehensive review of the usage of nanotechnology and machine learning in the field of dentistry. I reviewed and explained the latest trends in the field and how technology can be used in various aspects of human lives."
+  },
+  {
+    "title": "Training Scheme for Stereo Audio Generation",
+    "type": "Research Paper",
+    "conference": "CoCoLe 2022 - Communications in Computer and Information Science",
+    "year": "2022",
+    "description": "Published research paper on stereo audio generation training schemes in the field of computing, communication and learning. The paper presents innovative approaches to stereo audio generation using advanced computational methods and machine learning techniques.",
+    "doi": "https://doi.org/10.1007/978-3-031-21750-0_21"
+  }
+]

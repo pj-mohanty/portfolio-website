@@ -1,30 +1,220 @@
+@import "../../vars.css";
+
 .container {
-    padding: 50px 0;
+  scroll-margin-top: 79px;
+  color: var(--color-text);
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 4rem 0;
+  position: relative;
+}
+
+.container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: 
+    radial-gradient(circle at 20% 20%, rgba(102, 126, 234, 0.08) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(118, 75, 162, 0.08) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+.title {
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  background: linear-gradient(135deg, #667eea, #764ba2, #f093fb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  position: relative;
+  z-index: 1;
+  letter-spacing: -0.02em;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #94a3b8;
+  margin-bottom: 4rem;
+  font-weight: 400;
+  position: relative;
+  z-index: 1;
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.category {
+  margin-bottom: 3rem;
+}
+
+.categoryTitle {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #e2e8f0;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid rgba(102, 126, 234, 0.3);
+  position: relative;
+}
+
+.categoryTitle::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 60px;
+  height: 2px;
+  background: linear-gradient(90deg, #667eea, #764ba2);
+  border-radius: 1px;
+}
+
+.skills {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.skill {
+  background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
+  border: 1px solid rgba(102, 126, 234, 0.2);
+  border-radius: 12px;
+  padding: 1rem 1.2rem;
+  text-align: center;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+  backdrop-filter: blur(10px);
+}
+
+.skill::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+  transition: left 0.6s ease;
+}
+
+.skill:hover {
+  transform: translateY(-4px) scale(1.02);
+  background: linear-gradient(135deg, rgba(102, 126, 234, 0.15), rgba(118, 75, 162, 0.15));
+  border-color: rgba(102, 126, 234, 0.4);
+  box-shadow: 
+    0 8px 25px rgba(102, 126, 234, 0.15),
+    0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.skill:hover::before {
+  left: 100%;
+}
+
+.skillText {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #e2e8f0;
+  transition: color 0.3s ease;
+  position: relative;
+  z-index: 1;
+}
+
+.skill:hover .skillText {
+  color: #ffffff;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .container {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 3rem 0;
   }
   
   .title {
-    text-align: center;
-    font-size: 36px;
-    margin-bottom: 40px;
+    font-size: 3rem;
   }
   
   .skills {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 0.8rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 2.5rem 0;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .subtitle {
+    font-size: 1.1rem;
+    margin-bottom: 3rem;
+  }
+  
+  .categoryTitle {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .skills {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 0.7rem;
   }
   
   .skill {
-    text-align: center;
+    padding: 0.8rem 1rem;
   }
   
-  .skillImageContainer {
-    margin-bottom: 10px;
+  .skillText {
+    font-size: 0.85rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 2rem 0;
   }
   
-  .skillImage {
-    width: 50px; /* Adjust based on your image size */
-    height: 50px;
-    object-fit: cover;
+  .title {
+    font-size: 2.2rem;
   }
+  
+  .subtitle {
+    font-size: 1rem;
+    margin-bottom: 2.5rem;
+  }
+  
+  .skills {
+    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+    gap: 0.6rem;
+  }
+  
+  .skill {
+    padding: 0.7rem 0.8rem;
+  }
+  
+  .skillText {
+    font-size: 0.8rem;
+  }
+}
   

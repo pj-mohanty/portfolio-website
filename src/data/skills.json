@@ -1,5 +1,85 @@
 [
   {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "NextJS",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "PyTorch",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "NumPy",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Matplotlib",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Seaborn",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Google Cloud",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/react.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -8,20 +88,8 @@
     "imageSrc": "skills/css.png"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
-  },
-  {
     "title": "GraphQL",
     "imageSrc": "skills/graphql.png"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
   },
   {
     "title": "Figma",

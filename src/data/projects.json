@@ -1,39 +1,44 @@
 [
   {
+    "title": "PaperTalks",
+    "imageSrc": "projects/project.png",
+    "description": "Built an intelligent reasoning chatbot for research papers using RAG, PDF parsing, Langchain, DeepSeek-r1, GROQ, and FAISS. Developed a dynamic discussion platform allowing users to tag teachers or peers in documents for enhanced collaborative learning.",
+    "skills": ["DeepSeek", "GROQ", "Ollama", "Langchain", "FAISS", "Streamlit", "Python", "React", "Node.js", "Firebase", "Java"],
+    "source": "https://github.com/pj-mohanty/PaperTalks"
+  },
+  {
+    "title": "DevApply",
+    "imageSrc": "projects/project.png",
+    "description": "Contributed to building an app helping software engineers track applications, interview questions and analyze their performance. Implemented dashboard and authentication with real-time syncing including AI analytics, mock interviews and resume enhancement.",
+    "skills": ["GPT-4o", "React", "Node.js", "Firebase", "OpenAI", "JavaScript", "TailwindCSS", "Express", "Google Cloud Platform"],
+    "source": "https://github.com/pj-mohanty/DevApply"
+  },
+  {
     "title": "Humans of Technology",
-    "imageSrc": "projects/humans-of-technology.jpg",
-    "description": "An interactive history museum showcasing notable figures in computer science with AI-powered chatbots.",
-    "skills": ["React", "Redux", "Firebase", "OpenAI API", "Google Cloud Storage", "JSON", "Node.js", "TailwindCSS", "Axios", "Postman"],
-    "demo": "https://humans-of-technology-demo.com",
-    "source": "https://github.com/username/humans-of-technology"
+    "imageSrc": "projects/project.png",
+    "description": "Created an interactive museum highlighting notable figures in technology, featuring AI-powered chatbots for dynamic interactions. Leveraged the OpenAI API to enable seamless, natural conversational interactions with virtual representations of historical personas.",
+    "skills": ["GPT-4o", "Java", "Spring", "React", "Redux", "Google Cloud Storage", "Firebase", "Postman", "MySQL"],
+    "source": "https://github.com/pj-mohanty/humans_of_technology"
   },
   {
     "title": "Heroes vs Villains",
-    "imageSrc": "projects/heroes-vs-villains.jpg",
-    "description": "An immersive storytelling platform allowing users to engage with AI-generated hero and villain characters.",
-    "skills": ["Java", "Vaadin", "OpenAI API", "AI-Generated Images", "Text-to-Speech", "React", "Redux", "Node.js"],
-    "demo": "https://heroes-vs-villains-demo.com",
-    "source": "https://github.com/username/heroes-vs-villains"
+    "imageSrc": "projects/project.png",
+    "description": "Created an app that detects the hero and villain from movies or TV series using GPT, allowing users to interact with both characters. Integrated OpenAI GPT-4o API for generating Q&A, AI-generated character images and Implemented Text-to-Speech functionality.",
+    "skills": ["GPT-4o", "Java", "AI-Generated Images", "Text-to-Speech", "React", "Redux", "Node.js", "Vaadin", "Spring"],
+    "source": "https://github.com/pj-mohanty/heroes-vs-villains"
   },
   {
-    "title": "Bookstore App",
-    "imageSrc": "projects/bookstore-app.jpg",
-    "description": "A full-stack e-commerce application for browsing, purchasing, and managing books.",
-    "skills": ["React", "Redux", "TailwindCSS", "Next.js", "Express", "MongoDB", "Firebase", "JWT", "Chart.js", "Vite", "Axios"],
-    "source": "https://github.com/username/bookstore-app"
+    "title": "Cancer Prediction Using Gene Expression Data",
+    "imageSrc": "projects/project.png",
+    "description": "Utilized scikit-learn for model implementation, achieving high accuracy with Random Forest and Support Vector Machine models. Conducted extensive data preprocessing, feature selection, and detailed visualization using Pandas, NumPy, Matplotlib, and Seaborn.",
+    "skills": ["Python", "scikit-learn", "NumPy", "Pandas", "Matplotlib", "Seaborn", "SVM"],
+    "source": "https://github.com/pj-mohanty/Cancer_prediction_using_Gene_expression_data"
   },
   {
-    "title": "Full Stack Spotify Clone",
-    "imageSrc": "projects/spotify-clone.jpg",
-    "description": "A full-stack music streaming app mimicking Spotify’s features (song uploads, playlists, advanced audio player).",
-    "skills": ["Next.js 13.4", "React", "Tailwind CSS", "Supabase", "PostgreSQL", "Stripe", "React Hook Form", "React Toast"],
-    "source": "https://github.com/username/spotify-clone"
-  },
-  {
-    "title": "Social Media Application",
-    "imageSrc": "projects/social-media-app.jpg",
-    "description": "A full-stack social media platform with user authentication and dynamic UI.",
-    "skills": ["Next.js", "React", "MongoDB", "Mongoose", "Tailwind CSS", "Material-UI", "Clerk", "React Hook Form", "Emotion"],
-    "source": "https://github.com/username/social-media-app"
+    "title": "Heart Disease Prediction Using Cardiovascular Data",
+    "imageSrc": "projects/project.png",
+    "description": "Comprehensive heart disease prediction model using machine learning techniques. Analyzed health metrics including age, gender, chest pain type, and cholesterol levels. Performed extensive data preprocessing with outlier treatment using IQR method, feature engineering with Box-Cox transformations, and categorical encoding.",
+    "skills": ["Python", "Pandas", "NumPy", "scikit-learn", "Matplotlib", "Seaborn"],
+    "source": "https://github.com/pj-mohanty/Heart_disease_Prediction_using_Logistic_Reg"
   }
 ]
