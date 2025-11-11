@@ -7,11 +7,25 @@
     "source": "https://github.com/pj-mohanty/PaperTalks"
   },
   {
-    "title": "DevApply",
+    "title": "Cancer Prediction Using Gene Expression Data",
     "imageSrc": "projects/project.png",
-    "description": "Contributed to building an app helping software engineers track applications, interview questions and analyze their performance. Implemented dashboard and authentication with real-time syncing including AI analytics, mock interviews and resume enhancement.",
-    "skills": ["GPT-4o", "React", "Node.js", "Firebase", "OpenAI", "JavaScript", "TailwindCSS", "Express", "Google Cloud Platform"],
-    "source": "https://github.com/pj-mohanty/DevApply"
+    "description": "Utilized scikit-learn for model implementation, achieving high accuracy with Random Forest and Support Vector Machine models. Conducted extensive data preprocessing, feature selection, and detailed visualization using Pandas, NumPy, Matplotlib, and Seaborn.",
+    "skills": ["Python", "scikit-learn", "NumPy", "Pandas", "Matplotlib", "Seaborn", "SVM"],
+    "source": "https://github.com/pj-mohanty/Cancer_prediction_using_Gene_expression_data"
+  },
+  {
+    "title": "Heart Disease Prediction Using Cardiovascular Data",
+    "imageSrc": "projects/project.png",
+    "description": "Comprehensive heart disease prediction model using machine learning techniques. Analyzed health metrics including age, gender, chest pain type, and cholesterol levels. Performed extensive data preprocessing with outlier treatment using IQR method, feature engineering with Box-Cox transformations, and categorical encoding.",
+    "skills": ["Python", "Pandas", "NumPy", "scikit-learn", "Matplotlib", "Seaborn"],
+    "source": "https://github.com/pj-mohanty/Heart_disease_Prediction_using_Logistic_Reg"
+  },
+  {
+    "title": "Exploratory Dental X-ray Analysis",
+    "imageSrc": "projects/dental-xray.png",
+    "description": "Performed exploratory data analysis on dental X-ray datasets to study patterns of dental anomalies such as caries, lesions, and bone-density variations. Applied image preprocessing techniques (contrast adjustment, denoising, rotation) using OpenCV, and visualized model interpretability with Grad-CAM using TensorFlow.",
+    "skills": ["TensorFlow", "Keras", "OpenCV", "NumPy", "Grad-CAM", "Medical Imaging", "EDA"],
+    "source": "https://github.com/pj-mohanty/dental-xray-analysis"
   },
   {
     "title": "Humans of Technology",
@@ -26,19 +40,5 @@
     "description": "Created an app that detects the hero and villain from movies or TV series using GPT, allowing users to interact with both characters. Integrated OpenAI GPT-4o API for generating Q&A, AI-generated character images and Implemented Text-to-Speech functionality.",
     "skills": ["GPT-4o", "Java", "AI-Generated Images", "Text-to-Speech", "React", "Redux", "Node.js", "Vaadin", "Spring"],
     "source": "https://github.com/pj-mohanty/heroes-vs-villains"
-  },
-  {
-    "title": "Cancer Prediction Using Gene Expression Data",
-    "imageSrc": "projects/project.png",
-    "description": "Utilized scikit-learn for model implementation, achieving high accuracy with Random Forest and Support Vector Machine models. Conducted extensive data preprocessing, feature selection, and detailed visualization using Pandas, NumPy, Matplotlib, and Seaborn.",
-    "skills": ["Python", "scikit-learn", "NumPy", "Pandas", "Matplotlib", "Seaborn", "SVM"],
-    "source": "https://github.com/pj-mohanty/Cancer_prediction_using_Gene_expression_data"
-  },
-  {
-    "title": "Heart Disease Prediction Using Cardiovascular Data",
-    "imageSrc": "projects/project.png",
-    "description": "Comprehensive heart disease prediction model using machine learning techniques. Analyzed health metrics including age, gender, chest pain type, and cholesterol levels. Performed extensive data preprocessing with outlier treatment using IQR method, feature engineering with Box-Cox transformations, and categorical encoding.",
-    "skills": ["Python", "Pandas", "NumPy", "scikit-learn", "Matplotlib", "Seaborn"],
-    "source": "https://github.com/pj-mohanty/Heart_disease_Prediction_using_Logistic_Reg"
   }
 ]
