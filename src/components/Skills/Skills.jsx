@@ -3,7 +3,6 @@ import styles from "./Skills.module.css";
 import skills from "../../data/skills.json";
 
 export const Skills = () => {
-  // Updated categories aligned with your resume and projects
   const skillCategories = {
     "AI & Machine Learning": [
       "TensorFlow",
@@ -64,20 +63,11 @@ export const Skills = () => {
             <div className={styles.skills}>
               {categorySkills.map((skillName) => {
                 const skill = skills.find((s) => s.title === skillName);
-                return skill ? (
-                  <div key={skill.title} className={styles.skill}>
-                    {skill.imageSrc && (
-                      <img
-                        src={skill.imageSrc}
-                        alt={skill.title}
-                        className={styles.skillIcon}
-                      />
-                    )}
-                    <span className={styles.skillText}>{skill.title}</span>
-                  </div>
-                ) : (
+                return (
                   <div key={skillName} className={styles.skill}>
-                    <span className={styles.skillText}>{skillName}</span>
+                    <span className={styles.skillText}>
+                      {skill ? skill.title : skillName}
+                    </span>
                   </div>
                 );
               })}
