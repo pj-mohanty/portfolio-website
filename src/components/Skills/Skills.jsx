@@ -52,9 +52,6 @@ export const Skills = () => {
   return (
     <section className={styles.container} id="skills">
       <h2 className={styles.title}>TECHNICAL SKILLS</h2>
-      <p className={styles.subtitle}>
-        Core technologies and frameworks I use across AI, medical imaging, and software engineering
-      </p>
 
       <div className={styles.content}>
         {Object.entries(skillCategories).map(([category, categorySkills]) => (
