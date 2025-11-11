@@ -1,83 +1,111 @@
 [
   {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "TensorFlow",
+    "imageSrc": "skills/tensorflow.png"
+  },
+  {
+    "title": "Keras",
+    "imageSrc": "skills/keras.png"
+  },
+  {
+    "title": "PyTorch",
+    "imageSrc": "skills/pytorch.png"
+  },
+  {
+    "title": "OpenCV",
+    "imageSrc": "skills/opencv.png"
+  },
+  {
+    "title": "scikit-learn",
+    "imageSrc": "skills/scikit.png"
+  },
+  {
+    "title": "LangChain",
+    "imageSrc": "skills/langchain.png"
+  },
+  {
+    "title": "DeepSeek",
+    "imageSrc": "skills/deepseek.png"
+  },
+  {
+    "title": "NumPy",
+    "imageSrc": "skills/numpy.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/pandas.png"
+  },
+  {
+    "title": "Matplotlib",
+    "imageSrc": "skills/matplotlib.png"
+  },
+  {
+    "title": "Seaborn",
+    "imageSrc": "skills/seaborn.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "NextJS",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "TypeScript",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Java",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Python",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "PyTorch",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "NumPy",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Matplotlib",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Seaborn",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "Pandas",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "C++",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "C",
-    "imageSrc": "skills/react.png"
+    "title": "Next.js",
+    "imageSrc": "skills/nextjs.png"
   },
   {
     "title": "Node.js",
     "imageSrc": "skills/node.png"
   },
   {
+    "title": "Express",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/spring.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/cpp.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/c.png"
+  },
+  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Firebase",
-    "imageSrc": "skills/react.png"
-  },
-  {
     "title": "PostgreSQL",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "skills/postgresql.png"
   },
   {
     "title": "MySQL",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png"
   },
   {
     "title": "Google Cloud",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "skills/gcp.png"
   },
   {
     "title": "AWS",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "skills/aws.png"
   },
   {
     "title": "Docker",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "skills/docker.png"
   },
   {
     "title": "HTML",
@@ -94,5 +122,17 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Jupyter Notebook",
+    "imageSrc": "skills/jupyter.png"
+  },
+  {
+    "title": "Streamlit",
+    "imageSrc": "skills/streamlit.png"
   }
 ]
