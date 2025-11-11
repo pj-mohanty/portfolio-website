@@ -1,13 +1,14 @@
 [
   {
-    "role": "Software Engineering Intern",
-    "organisation": "United Solutions Private Limited",
-    "startDate": "Feb 2022",
-    "endDate": "May 2022",
-    "location": "Punjab, India",
+    "role": "Software Development Intern",
+    "organisation": "DevApply (Sponsored Project)",
+    "startDate": "May 2025",
+    "endDate": "Aug 2025",
+    "location": "San Francisco, USA",
     "experiences": [
-      "Built a robust document management system for fast & secure document storage & sharing, improving team efficiency by 25%.",
-      "Used AWS for document storage and MongoDB to track metadata & permissions, with React for the interactive front-end interface."
+      "Collaborated with the DevApply team to build an AI-powered platform to track applications, journal interviews, and enhance resumes.",
+      "Implemented an interactive dashboard and real-time authentication system with AI analytics for personalized feedback and mock interviews.",
+      "Integrated GPT-4o, React, Node.js, Firebase, and Google Cloud Platform to design scalable AI-driven user experiences."
     ]
   },
   {
@@ -28,8 +29,24 @@
     "endDate": "July 2024",
     "location": "Jharkhand, India",
     "experiences": [
-      "Organized dental and healthcare camps and provided timely specialized dental treatment for children suffering from cerebral palsy.",
-      "Educated patients and their parents on importance of dental hygiene and proper techniques for maintaining dental and medical care."
+      "Provided specialized dental treatment for children with cerebral palsy, collaborating with physiotherapists and neurologists for comprehensive care.",
+      "Coordinated radiological investigations including MRI, CBCT, and ultrasound imaging to evaluate craniofacial anomalies and systemic complications.",
+      "Implemented digital diagnostic and data documentation workflows to enhance clinical accuracy and ensure patient data confidentiality.",
+      "Explored AI-assisted diagnostic and treatment-planning approaches for early anomaly detection and improved patient outcomes."
+    ]
+  },
+  {
+    "role": "Dental Intern",
+    "organisation": "Hazaribag College of Dental Sciences and Hospital (HCDSH)",
+    "startDate": "Jan 2021",
+    "endDate": "Jan 2022",
+    "location": "Jharkhand, India",
+    "experiences": [
+      "Performed and assisted in prosthodontic, maxillofacial, and implant surgeries, strengthening surgical and imaging interpretation skills.",
+      "Worked extensively with ultrasound, DICOM, CBCT, OPG, and CAD/CAM systems for radiographic evaluation across diverse clinical cases.",
+      "Performed and observed 3D craniofacial reconstruction workflows for prosthodontic design and surgical simulation.",
+      "Interpreted CBCT and OPG radiographs to support accurate diagnosis, anatomical mapping, and patient-specific modeling.",
+      "Received the 'Best Intern Award' from the Department of Periodontology for excellence in patient care and clinical performance."
     ]
   }
 ]
