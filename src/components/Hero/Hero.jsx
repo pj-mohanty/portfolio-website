@@ -11,9 +11,20 @@ export const Hero = () => {
         <p className={styles.description}>
           I am a multi-faceted and diligent indivisual with deep interest in the fiels of software engineering, deep learniing and life sciences.
         </p>
+        <div className={styles.buttonGroup}>
+        <a
+          href="/Padmaja_Mohanty-Resume.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className={styles.resumeBtn}
+        >
+          Resume
+        </a>
+      
         <a href="#contact" className={styles.contactBtn}>
           Contact Me
         </a>
+</div>
       </div>
       <img
         src={getImageUrl("hero/heroImage.jpg")}
