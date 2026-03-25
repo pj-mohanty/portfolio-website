@@ -1,5 +1,17 @@
 [
   {
+  "role": "Research Member",
+  "organisation": "Computational Democracy and Equity (CoDE) Lab",
+  "startDate": "Jan 2026",
+  "endDate": "Present",
+  "location": "San Francisco, USA",
+  "experiences": [
+    "Contributed to a public redistricting dataset used by researchers and policy organizations, including the Institute for Mathematics and Democracy.",
+    "Reconstructed complex geographic and electoral datasets for redistricting and gerrymandering analysis using MCMC-based methods.",
+    "Resolved corrupted state-level datasets by fixing topology issues (overlaps, gaps, invalid geometries) using GeoPandas, maup, and GerryChain."
+  ]
+  },
+  {
     "role": "Software Development Intern",
     "organisation": "DevApply (Sponsored Project)",
     "startDate": "May 2025",
