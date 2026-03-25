@@ -1,5 +1,13 @@
 [
   {
+    "title": "NatuRadar",
+    "imageSrc": "projects/naturadar.png",
+    "description": "Built an AI-powered biodiversity discovery platform for real-time species identification with geotagging and interactive mapping. Designed a gamified, crowdsourced ecological data system with missions, leaderboards, and rarity-based scoring. Placed 3rd at DonsHack 2026.",
+    "skills": ["Computer Vision", "Anthropic Claude", "Firebase", "iNaturalist API", "React", "Leaflet", "Vercel", "Cloudinary", "Chart.js"],
+    "source": "https://github.com/pj-mohanty/NatuRadar",
+    "demo": "https://natu-radar.vercel.app"
+  },
+  {
     "title": "PaperTalks",
     "imageSrc": "projects/project.png",
     "description": "Built an intelligent reasoning chatbot for research papers using RAG, PDF parsing, Langchain, DeepSeek-r1, GROQ, and FAISS. Developed a dynamic discussion platform allowing users to tag teachers or peers in documents for enhanced collaborative learning.",
