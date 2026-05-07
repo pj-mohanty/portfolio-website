@@ -55,15 +55,6 @@ export const Hero = () => {
 
         <div className={styles.buttonGroup}>
           <a
-            href="/Padmaja_Mohanty-Resume.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className={`${styles.button} ${styles.resumeBtn}`}
-          >
-            Resume
-          </a>
-
-          <a
             href="#contact"
             className={`${styles.button} ${styles.contactBtn}`}
           >
