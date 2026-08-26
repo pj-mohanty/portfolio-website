@@ -9,9 +9,10 @@ export const Hero = () => {
         <h1 className={styles.title}>Hello! I'm Padmaja</h1>
 
         <p className={styles.description}>
-        I am an MS Computer Science student with experience in software engineering
-        and AI research, building reliable applications and investigating how
-        intelligent systems learn and behave.
+        I am a curious and diligent MS Computer Science student with experience in
+        software engineering and AI research, driven to understand intelligent
+        systems and build reliable solutions to meaningful problems across
+        disciplines.
         </p>
 
         <div className={styles.buttonGroup}>
