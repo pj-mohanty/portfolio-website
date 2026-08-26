@@ -1,5 +1,19 @@
 [
   {
+  "role": "AI Research Fellow",
+  "organisation": "Algoverse",
+  "startDate": "Jun 2026",
+  "endDate": "Present",
+  "location": "Remote",
+  "experiences": [
+    "Conducted mechanistic interpretability research on genomic foundation models, including SpliceBERT, DNABERT-2, and NTv3.",
+    "Investigated biologically meaningful sequence representations using causal interventions and representation probing.",
+    "Extended SpliceBERT's causal interpretability workflow to DNABERT-2 and localized influential attention heads and computational components.",
+    "Collaborated with a research team on rigorous experimental design, quantitative analysis, and research reproducibility.",
+    "Research advisors: Ruizhe Li, Sean Wu, Ajay Mandyam Rangarajan, and Jeyashree Krishnan."
+  ]
+  },
+  {
   "role": "Research Member",
   "organisation": "Computational Democracy and Equity (CoDE) Lab",
   "startDate": "Jan 2026",
