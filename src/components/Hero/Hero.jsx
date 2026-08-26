@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
         I am a curious and diligent MS Computer Science student with experience in
         software engineering and AI research, driven to understand intelligent
-        systems and build reliable solutions to meaningful problems across
+        systems and build reliable solutions to meaningful real-world problems across
         disciplines.
         </p>
 
