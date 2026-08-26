@@ -4,6 +4,13 @@
     "type": "Research Poster",
     "conference": "International Dental Conference, BBSR",
     "year": "2019",
-    "description": "The research study covers a comprehensive review of the usage of nanotechnology and machine learning in the field of dentistry. I reviewed and explained the latest trends in the field and how technology can be used in various aspects of human lives."
+    "description": "A comprehensive review of nanotechnology and machine learning applications in dentistry, including emerging developments in dental diagnosis, treatment, and patient care."
+  },
+  {
+    "title": "States of Disarray",
+    "type": "Research Poster",
+    "conference": "Creative Activity and Research Day, University of San Francisco",
+    "year": "2026",
+    "description": "Integrated geographic, demographic, and electoral data to create analysis-ready redistricting datasets for all 50 U.S. states. Presented how integrated geographic data and MCMC outlier analysis help detect and understand partisan gerrymandering in elections."
   }
 ]
