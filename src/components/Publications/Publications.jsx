@@ -6,7 +6,7 @@ const Publications = () => {
   return (
     <section id="publications" className={styles.publications}>
       <div className={styles.container}>
-        <h2 className={styles.title}>Research Publications</h2>
+        <h2 className={styles.title}>Research Posters</h2>
         <div className={styles.publicationsGrid}>
           {publicationsData.map((publication, index) => (
             <div key={index} className={styles.publicationCard}>
