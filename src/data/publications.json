@@ -1,15 +1,15 @@
 [
   {
     "title": "Beyond Perturbation Robustness: Do Genomic Foundation Models Learn Biological Equivalence?",
-    "type": "Accepted Workshop Paper",
+    "type": "Accepted Paper",
     "conference": "NeurIPS 2026 Women in Machine Learning (WiML) Workshop",
     "year": "2026",
     "description": "Investigated whether genomic foundation models encode biological equivalence by testing whether synonymous DNA sequences are represented as more similar than matched nonsynonymous controls. Evaluated Omni-DNA, NucEL, and JEPA-DNA across translation-verified coding sequences, finding model-dependent biological-equivalence structure with NucEL showing the strongest signal."
   },
   {
     "title": "Mechanistic Interpretability of Donor-Acceptor Coupling in SpliceBERT",
-    "type": "Accepted Workshop Paper",
-    "conference": "NeurIPS 2026 Workshop",
+    "type": "Accepted Paper",
+    "conference": "NeurIPS 2026 XAI4Science Workshop",
     "year": "2026",
     "description": "Used causal interventions and activation patching to uncover how SpliceBERT represents long-range donor-acceptor dependencies in RNA splicing. Identified a four-role computation involving positional geometry, acceptor-local feature construction, cross-site information transfer, and downstream readout, while finding that the overall computation is distributed rather than captured by a sparse circuit."
   },
