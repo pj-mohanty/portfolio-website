@@ -1,10 +1,17 @@
 [
   {
-    "title": "Nanoworld - Where Small is Big",
-    "type": "Research Poster",
-    "conference": "International Dental Conference, BBSR",
-    "year": "2019",
-    "description": "A comprehensive review of nanotechnology and machine learning applications in dentistry, including emerging developments in dental diagnosis, treatment, and patient care."
+    "title": "Beyond Perturbation Robustness: Do Genomic Foundation Models Learn Biological Equivalence?",
+    "type": "Accepted Workshop Paper",
+    "conference": "NeurIPS 2026 Women in Machine Learning (WiML) Workshop",
+    "year": "2026",
+    "description": "Investigated whether genomic foundation models encode biological equivalence by testing whether synonymous DNA sequences are represented as more similar than matched nonsynonymous controls. Evaluated Omni-DNA, NucEL, and JEPA-DNA across translation-verified coding sequences, finding model-dependent biological-equivalence structure with NucEL showing the strongest signal."
+  },
+  {
+    "title": "Mechanistic Interpretability of Donor-Acceptor Coupling in SpliceBERT",
+    "type": "Accepted Workshop Paper",
+    "conference": "NeurIPS 2026 Workshop",
+    "year": "2026",
+    "description": "Used causal interventions and activation patching to uncover how SpliceBERT represents long-range donor-acceptor dependencies in RNA splicing. Identified a four-role computation involving positional geometry, acceptor-local feature construction, cross-site information transfer, and downstream readout, while finding that the overall computation is distributed rather than captured by a sparse circuit."
   },
   {
     "title": "States of Disarray",
@@ -12,5 +19,12 @@
     "conference": "Creative Activity and Research Day, University of San Francisco",
     "year": "2026",
     "description": "Integrated geographic, demographic, and electoral data to create analysis-ready redistricting datasets for all 50 U.S. states. Presented how integrated geographic data and MCMC outlier analysis help detect and understand partisan gerrymandering in elections."
+  },
+  {
+    "title": "Nanoworld - Where Small is Big",
+    "type": "Research Poster",
+    "conference": "International Dental Conference, BBSR",
+    "year": "2019",
+    "description": "A comprehensive review of nanotechnology and machine learning applications in dentistry, including emerging developments in dental diagnosis, treatment, and patient care."
   }
 ]
